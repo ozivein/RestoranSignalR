@@ -53,8 +53,8 @@ Kullandığım tüm teknolojiler
 
 -   Mail Gönderme
 
-![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image1.jpeg){width="6.525in"
-height="2.975in"}![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image2.jpeg){width="6.525in"
-height="3.6416666666666666in"}![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image3.jpeg){width="6.525in"
-height="3.05in"}![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image4.jpeg){width="6.516666666666667in"
-height="3.4916666666666667in"}
+https://i.hizliresim.com/s3fusrv.jpg
+![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image2.jpeg)
+![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image3.jpeg)
+![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image4.jpeg)
+
