@@ -52,8 +52,7 @@ Kullandığım tüm teknolojiler
 -   İstatistikler
 
 -   Mail Gönderme
-![]((https://i.hizliresim.com/s3fusrv.jpg))
-https://i.hizliresim.com/s3fusrv.jpg
+![Image 1](https://i.hizliresim.com/s3fusrv.jpg)
 ![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image2.jpeg)
 ![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image3.jpeg)
 ![](vertopal_2c2d30ed28904619b95cac1a9480b7f1/media/image4.jpeg)
